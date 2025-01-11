@@ -1,0 +1,16 @@
+{
+	"name": "afh_template",
+	"version": "1.0.0",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"build": "tsc"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"typescript": "^4.9.3"
+	}
+}
